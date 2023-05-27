@@ -1,0 +1,16 @@
+kopirao si ceo kod iz preprocesiranja u klasifikaciju
+kada budes dosao do klasterovanja odluci da li ce ti
+klasifikacija i preprocesiranje biti u istom fajlu
+
+odradi minmax scaler ili standardizaciju(nazovi section normaizacijom)
+isto to i za broj poteza. napisi zasto si to uradio
+
+
+gledao si klasifikaciju sa casa. stigao si do train-fit
+nakon sto zavrsis exportuj dataframe iz preprocesiranja (dd)
+napravi novi fajl za rad, train fituj podatke i nastavi odatle
+
+
+
+
+na samom kraju rad sa balansiranim klasama
