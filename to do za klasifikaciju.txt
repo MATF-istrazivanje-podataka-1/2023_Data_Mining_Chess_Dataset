@@ -13,4 +13,8 @@ napravi novi fajl za rad, train fituj podatke i nastavi odatle
 
 
 
-na samom kraju rad sa balansiranim klasama
+na samom kraju rad sa balansiranim klasama. Vidi da li nakon balansiranja
+dobijas bolji rezultat s obzirom na to da su klase white, black i draw nebalansirane.
+Ako se ne dobija dobar rezultat, spoji draw i black da budu jedan ishod i onda
+cemo imati samo dve target klase kao i svi ostali pa uradi 
+za samo dve klase isti postpuak (train_fit itd, matrice konfuzije...) 
