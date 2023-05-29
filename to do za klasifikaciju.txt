@@ -10,8 +10,7 @@ predvidimo pobednika
 
 Uradio si knn i decision tree. Ako budes imao vremena uradi i svm
 
-Sledece sto treba da uradis je da odradis ono za kraljicu i onda da uporedis modele i gotov si sa klasifikacijom 
-
+uporedi drve i knn (i svm ako budes radio)
 
 
 
