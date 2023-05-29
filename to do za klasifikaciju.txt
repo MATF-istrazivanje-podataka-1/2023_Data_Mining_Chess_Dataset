@@ -3,9 +3,14 @@ kada budes dosao do klasterovanja odluci da li ce ti
 klasifikacija i preprocesiranje biti u istom fajlu
 
 
-dodaj dve kolone u kojoj se gleda da li je beli igrao kraljicom u prih 7 poteza
+dodaj dve kolone u kojoj se gleda da li je beli igrao kraljicom u prvih 7 poteza
 i drugu za crnog. Ovo je smatrano za losom praksom u sahu pa nam mozda moze pomoci da
 predvidimo pobednika
+
+
+Uradio si knn i decision tree. Ako budes imao vremena uradi i svm
+
+Sledece sto treba da uradis je da odradis ono za kraljicu i onda da uporedis modele i gotov si sa klasifikacijom 
 
 
 
