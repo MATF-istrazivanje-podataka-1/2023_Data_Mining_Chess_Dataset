@@ -1,0 +1,1 @@
+Odmah na pocetku obrisi sve remije iz dataframe winner==draw i onda prepravi sve gde se pojavljuje remi

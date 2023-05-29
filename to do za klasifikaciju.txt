@@ -2,13 +2,10 @@ kopirao si ceo kod iz preprocesiranja u klasifikaciju
 kada budes dosao do klasterovanja odluci da li ce ti
 klasifikacija i preprocesiranje biti u istom fajlu
 
-odradi minmax scaler ili standardizaciju(nazovi section normaizacijom)
-isto to i za broj poteza. napisi zasto si to uradio
 
-
-gledao si klasifikaciju sa casa. stigao si do train-fit
-nakon sto zavrsis exportuj dataframe iz preprocesiranja (dd)
-napravi novi fajl za rad, train fituj podatke i nastavi odatle
+dodaj dve kolone u kojoj se gleda da li je beli igrao kraljicom u prih 7 poteza
+i drugu za crnog. Ovo je smatrano za losom praksom u sahu pa nam mozda moze pomoci da
+predvidimo pobednika
 
 
 
@@ -18,3 +15,6 @@ dobijas bolji rezultat s obzirom na to da su klase white, black i draw nebalansi
 Ako se ne dobija dobar rezultat, spoji draw i black da budu jedan ishod i onda
 cemo imati samo dve target klase kao i svi ostali pa uradi 
 za samo dve klase isti postpuak (train_fit itd, matrice konfuzije...) 
+
+KAD BUDES SPREMAO PREZENTACIJU NAUCI STA JE UNAKRSNA VALIDACIJA, STA JE RANDOM FOREST
+STA JE ROC KRIVA..
