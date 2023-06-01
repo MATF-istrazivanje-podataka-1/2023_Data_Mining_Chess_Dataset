@@ -1,0 +1,5 @@
+ubaci onako skalirane poteze u tabelu
+i pokreni kmeans algoritam 
+
+prvo pokreni algoritam za one hot encoded i onda primeni pca na tim kolonama
+i pokreni opet. uporedi rezultate i vidi sta je bolje 
