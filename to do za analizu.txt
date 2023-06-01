@@ -1,1 +1,3 @@
 Odmah na pocetku obrisi sve remije iz dataframe winner==draw i onda prepravi sve gde se pojavljuje remi
+
+eksportuj novi skup, digni ga na github i ucitaj ga u analizu i preprocesiranje
